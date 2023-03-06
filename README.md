@@ -1,11 +1,3 @@
-<!-- Make a style sheet that makes the font century gothic -->
-<style>
-    body {
-        font-family: Century Gothic,sans-serif;
-    }
-</style>
-
-
 <!-- Make a center div -->
 <div align="center">
     <h1>0xc60f</h1>
