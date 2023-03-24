@@ -66,8 +66,8 @@ first experience with coding was Scratch, and it's just been a love ever since.
         <th>Email</th>
     </tr>
     <tr>
-        <td><a href="https://0xc60f.github.io">0xc60f.me</a></td>
-        <td>0xc60f#0001 (Open DMs)</td>
+        <td><a href="https://0xc60f.live">0xc60f.live</a></td>
+        <td><a href="https://discord.com/users/942859618130989087"> 0xc60f#0001</td>
         <td><a href="mailto:0xc60f@duck.com">0xc60f@duck.com</a></td>
     </tr>
 </table>
