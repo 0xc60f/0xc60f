@@ -1,11 +1,3 @@
-<!-- Make a style sheet that makes the font century gothic -->
-<style>
-    body {
-        font-family: Century Gothic,sans-serif;
-    }
-</style>
-
-
 <!-- Make a center div -->
 <div align="center">
     <h1>0xc60f</h1>
@@ -82,9 +74,3 @@ just post whatever dumb projects I make to pass the time or oversimplify some me
 </table>
 
 </div>
-
-
-
-
-
-
