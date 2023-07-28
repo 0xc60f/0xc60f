@@ -18,7 +18,8 @@
 <!-- Make a h2 header with the color blue -->
 <h2 align="center">About Me</h2>
 I'm a programmer who's always had a natural intuition with computers and code in general. My 
-first experience with coding was Scratch, and it's just been a love ever since.
+first experience with coding was Scratch, and it's just been a love ever since. On Github, I normally
+just post whatever dumb projects I make to pass the time or oversimplify some menial task.
 
 <!-- Make a div with the color blue -->
 <div>
@@ -74,8 +75,8 @@ first experience with coding was Scratch, and it's just been a love ever since.
         <th>Email</th>
     </tr>
     <tr>
-        <td><a href="https://0xc60f.github.io">0xc60f.me</a></td>
-        <td>0xc60f#0001 (Open DMs)</td>
+        <td><a href="https://0xc60f.live">0xc60f.live</a></td>
+        <td><a href="https://discord.com/users/942859618130989087">@0xc60f</a></td>
         <td><a href="mailto:0xc60f@duck.com">0xc60f@duck.com</a></td>
     </tr>
 </table>
