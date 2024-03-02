@@ -3,7 +3,7 @@
     <h1>0xc60f</h1>
     <img src="https://cdn.discordapp.com/avatars/942859618130989087/a_3e64e67034fe1c21a9cadf8e0efaa905.gif?size=128" alt="0xc60f's profile picture">
 
-    Hi, I'm 0xc60f, a 15 year old developer from Texas 🤠.
+    Hi, I'm 0xc60f, a 16-year-old developer from Texas 🤠.
 
 
 
@@ -67,7 +67,7 @@ just post whatever dumb projects I make to pass the time or oversimplify some me
         <th>Email</th>
     </tr>
     <tr>
-        <td><a href="https://0xc60f.live">0xc60f.live</a></td>
+        <td><a href="https://0xc60f.live">0xc60f.me</a></td>
         <td><a href="https://discord.com/users/942859618130989087">@0xc60f</a></td>
         <td><a href="mailto:0xc60f@duck.com">0xc60f@duck.com</a></td>
     </tr>
