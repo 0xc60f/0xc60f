@@ -1,7 +1,7 @@
 <!-- Make a center div -->
 <div align="center">
     <h1>0xc60f</h1>
-    <img src="https://cdn.discordapp.com/avatars/942859618130989087/a_3e64e67034fe1c21a9cadf8e0efaa905.gif?size=128" alt="0xc60f's profile picture">
+    <img src="https://cdn.discordapp.com/avatars/942859618130989087/a_f861110e6931f635bf1ebf594d894c83.gif?size=128" alt="0xc60f's profile picture">
 
     Hi, I'm 0xc60f, a 16-year-old developer from Texas 🤠.
 
