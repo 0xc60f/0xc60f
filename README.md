@@ -1,4 +1,3 @@
-<!-- Make a center div -->
 <div align="center">
     <h1>0xc60f</h1>
     <img src="https://cdn.discordapp.com/avatars/942859618130989087/a_f861110e6931f635bf1ebf594d894c83.gif?size=128" alt="0xc60f's profile picture">
@@ -10,12 +9,11 @@ I got started with programming when I was introduced to Scratch, and now it’s 
 Currently, I’m working on a few projects, including a multipurpose Discord bot, a new grade tracker for Powershell school districts,
 and some networking tools for engineering design teams at UBC.
 
-<!-- Make a div with the color blue -->
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=0xc60f&show_icons=true&theme=radical" alt="0xc60f's GitHub Stats">
 </div>
 
-<!-- Add more github cards -->
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc60f&layout=compact&theme=radical" alt="0xc60f's GitHub Stats">
 </div>
@@ -41,3 +39,4 @@ and some networking tools for engineering design teams at UBC.
 </table>
 
 </div>
+
