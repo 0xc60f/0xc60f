@@ -3,15 +3,12 @@
     <h1>0xc60f</h1>
     <img src="https://cdn.discordapp.com/avatars/942859618130989087/a_f861110e6931f635bf1ebf594d894c83.gif?size=128" alt="0xc60f's profile picture">
 
-    Hi, I'm 0xc60f, a 16 year old developer from Texas 🤠.
+    Hi, I'm 0xc60f, a 17 year old developer studying Computer Science and Statistics at the University of British Columbia.
 
-
-
-<!-- Make a h2 header with the color blue -->
 <h2 align="center">About Me</h2>
-I'm a programmer who's always had a natural intuition with computers and code in general. My 
-first experience with coding was Scratch, and it's just been a love ever since. On Github, I normally
-just post whatever dumb projects I make to pass the time or oversimplify some menial task.
+I got started with programming when I was introduced to Scratch, and now it’s stuck a lot. 
+Currently, I’m working on a few projects, including a multipurpose Discord bot, a new grade tracker for Powershell school districts,
+and some networking tools for engineering design teams at UBC.
 
 <!-- Make a div with the color blue -->
 <div>
@@ -24,52 +21,22 @@ just post whatever dumb projects I make to pass the time or oversimplify some me
 </div>
 
 
-<h2 align="center">Languages</h2>
-<!-- Make a table -->
-<table style="display: flex; justify-content: center;">
-    <tr>
-        <th>Language</th>
-        <th>Proficiency</th>
-    </tr>
-    <tr>
-        <td>Python</td>
-        <td>Advanced</td>
-    </tr>
-    <tr>
-        <td>JavaScript</td>
-        <td>Intermediate</td>
-    </tr>
-    <tr>
-        <td>HTML</td>
-        <td>Intermediate</td>
-    </tr>
-    <tr>
-        <td>CSS</td>
-        <td>Intermediate</td>
-    </tr>
-    <tr>
-        <td>C#</td>
-        <td>Intermediate</td>
-    </tr>
-    <tr>
-        <td>Java</td>
-        <td>Intermediate</td>
-    </tr>
-</table>
 
 <h2 align="center">Contact Me</h2>
-<!-- Make a table -->
+
 
 <table style="display: flex; justify-content: center;">
     <tr>
         <th>Website</th>
         <th>Discord</th>
         <th>Email</th>
+        <th>Matrix</th>
     </tr>
     <tr>
-        <td><a href="https://0xc60f.me">0xc60f.me</a></td>
+        <td><a href="https://0xc60f.com">0xc60f.com</a></td>
         <td><a href="https://discord.com/users/942859618130989087">@0xc60f</a></td>
-        <td><a href="mailto:0xc60f@duck.com">0xc60f@duck.com</a></td>
+        <td><a href="mailto:contact@0xc60f.com">contact@0xc60f.com</a></td>
+        <td>@0xc60f:beeper.com</td>
     </tr>
 </table>
 
